@@ -1,1 +1,2 @@
-# chat-secure-sprint-seven
+# ChatSecure Sprint 7
+## Group members are Dmitri Taylor, Lakshya Saini, Joe Rubalcava, Alex Seelye, and Travis Messall
